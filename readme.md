@@ -1,3 +1,7 @@
+SS;
+![Screenshot_21-12-2024_14401_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/2d60ed00-30a9-4532-8c61-9eba360948cc)
+
+
 # Survey Rewards Smart Contract
 
 ## Project Description
